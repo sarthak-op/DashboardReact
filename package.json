@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://sqarthak-op.github.io/DashboardReact",
+  "homepage": "https://sarthak-op.github.io/DashboardReact",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
