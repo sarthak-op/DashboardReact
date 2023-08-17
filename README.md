@@ -1,1 +1,1 @@
-https://dashboardrpa.netlify.app/Register
+https://dashboardrpa.netlify.app
